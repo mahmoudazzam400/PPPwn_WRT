@@ -14,6 +14,6 @@
  [-] Error getting payload size
  [-] Error creating memory buffer
  [-] Error reading the file
- AzZaM_{:! /mnt/usb0/goldhen.bin [-] Error deleting existing file %s
+ AzZaM! /mnt/usb0/goldhen.bin [-] Error deleting existing file %s
  Payload successfully transferred to internal HDD! Payload not found! stage2
- AzZaM_{:
+ AzZaM
